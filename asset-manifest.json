@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.js": "/Dog-Breed-ML-React-App/static/js/main.32c7075f.js",
+    "main.js": "/Dog-Breed-ML-React-App/static/js/main.e55f8a36.js",
     "static/media/dogs-resnet18.onnx": "/Dog-Breed-ML-React-App/static/media/dogs-resnet18.1eb870d4e16fc612b582.onnx",
     "index.html": "/Dog-Breed-ML-React-App/index.html",
-    "main.32c7075f.js.map": "/Dog-Breed-ML-React-App/static/js/main.32c7075f.js.map"
+    "main.e55f8a36.js.map": "/Dog-Breed-ML-React-App/static/js/main.e55f8a36.js.map"
   },
   "entrypoints": [
-    "static/js/main.32c7075f.js"
+    "static/js/main.e55f8a36.js"
   ]
 }
